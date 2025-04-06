@@ -3,7 +3,7 @@ import React from 'react'
 const ImageUpload = () => {
   return (
     <div>
-      Upload Image
+      Upload Image buton
     </div>
   )
 }
