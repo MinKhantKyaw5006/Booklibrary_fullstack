@@ -42,7 +42,7 @@
         "summary": "System Design Interview: An Insider's Guide begins by introducing the key concepts of system design, emphasizing the importance of understanding requirements, scalability, and reliability. Xu explains how to approach an open-ended problem by breaking it down into smaller, manageable components, ensuring a structured response.\n\nThe book covers essential topics, such as database design, caching, load balancing, and message queues, explaining their relevance in building scalable and fault-tolerant systems. Xu also delves into the intricacies of designing high-availability systems, explaining concepts like replication, partitioning, and sharding.\n\nReaders are guided through various real-world system design problems, from designing a URL shortening service to building a recommendation system. Each example provides a deep dive into the trade-offs involved, offering valuable insights into how to optimize systems for performance, cost, and maintainability.\n\nXu also emphasizes the importance of communication during system design interviews, teaching readers how to present their solutions clearly and justify their decisions. With practice problems and tips on handling tough interview questions, the book is an essential resource for anyone looking to ace a system design interview."
     },
     {
-        "id": "b4ed06bf-02b2-42c4-8886-b3847af02cca",
+        "id": " ",
         "title": "Computer Science Distilled",
         "author": "Wladston Ferreira Filho",
         "genre": "Computer Science",
